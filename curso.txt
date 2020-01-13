@@ -1,0 +1,8 @@
+PVE       indica la ruta
+ls        list-muestra
+cd        cambiar de directorio
+touch     crear archivos
+cat        
+
+
+wifi2015fc
